@@ -7,6 +7,6 @@ This is a score based named entity recognition algoritm, the main idea is;
  to extract location information.
  
 #test results for the sample.txt;
-Hit Score:3 - SYDNEY 2000 NSW  GeoPos -33.867139, 151.207114
+Hit Score:3 - SYDNEY 2000 NSW  GeoPos -33.867139, 151.207114\n
 Hit Score:2 - PARRAMATTA 2150 NSW  GeoPos -33.816957, 151.003451
 Hit Score:1 - SPEED 3488 VIC  GeoPos -35.400818, 142.44027
